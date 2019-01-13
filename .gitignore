@@ -1,3 +1,5 @@
 *.Zip
 *.LOG
 *.htm
+*.OutJob
+*.SchDocPreview
