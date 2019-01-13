@@ -1,0 +1,62 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~wifi_car.PrjPcb|ReportField=ProjectFullPath~E:\Engineer\RobotWorkspace\16, Wifi Car\Project v1.1\wifi_car_pcb_v0.2\wifi_car.PrjPcb|ReportField=Title~Bill of Materials For Project [wifi_car.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~114|ReportField=ReportTime~16:24:43|ReportField=ReportDate~2019/1/13|ReportField=ReportDateTime~2019/1/13 16:24:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~wifi_car.PrjPcb|ReportField=DataSourceFullPath~E:\Engineer\RobotWorkspace\16, Wifi Car\Project v1.1\wifi_car_pcb_v0.2\wifi_car.PrjPcb
+104|Capacitor|C1|C0603|CAP_9|1
+106|Capacitor|C2|C0603|CAP_9|1
+104|Capacitor|C3, C14, C15, C16, C17, C18, C20, C21, C22|0603C|Cap_1|9
+0.47uF|Capacitor|C4|0603C|Cap_1|1
+0.1uF|Capacitor|C5, C7, C8, C10|0603C|CAP, CAP, CAP, Cap_1|4
+10uF|Capacitor|C6|0603C|CAP|1
+2.2uF|Capacitor|C9|0603C|Cap_1|1
+2.2pF|Capacitor|C11|0603C|Cap|1
+22pF|Capacitor|C12, C13|0603C|Cap|2
+1uF|Capacitor|C19|0603c|CAP|1
+0.1uF|Capacitor|C28, C30, C31|C0603|CAP|3
+10uF|Capacitor|C29|0805C|Cap|1
+Cap|Capacitor|C32, C33, C34, C35|0603C|Cap|4
+10uF|Capacitor|C36, C39|C0603|C|2
+0.1|Capacitor|C37, C38|C0603|C|2
+100u/10V||CE1|C_195|CE|1
+LED0|Typical INFRARED GaAs LED|D1, D3|0603LED|LED0|2
+1N4007|Diode|D2|DO-214AC|D|1
+1N5819|Diode|D4|DO-214AC|D|1
+DC||J1|dc5V|POWERCON|1
+OV2640||J2||OV2640|1
+22uH/2A||L1|WE_PD|INDUCTOR|1
+6.8uH||L2|WE_PD|INDUCTOR|1
+L2993D||L3||L2993d|1
+¿ª¹Ø|Header, 2-Pin|P1, P13|SIP2|Header 2, Header 2_1|2
+HC-SR04|Header, 4-Pin|P2, P5, P11, P12|HDR1X4|Header 4|4
+Header 2|Header, 2-Pin|P3, P4|HDR1X2|Header 2_2|2
+LED|Header, 2-Pin|P6|SIP2|Header 2|1
+Header 3|Header, 3-Pin|P7, P8|CON3|Header 3|2
+LED|Header, 2-Pin|P9|CON2|Header 2|1
+BAT|Header, 2-Pin|P10|CON2|Header 2|1
+SWD|Header, 5-Pin|P14|HDR1X5|Header 5|1
+S8050||Q1, Q2|SOT-23|NPN_1|2
+0.067R|Resistor|R1|1206|Res1|1
+1K|Resistor|R2, R3, R4, R5, R14, R18, R19, R29, R30|0603C|Res1|9
+0R|Resistor|R6, R9, R22, R26|0603R|Res1_4, Res1_4, Res1_4, Res1|4
+2K|Resistor|R7, R8, R32, R33|0603C|Res1|4
+10K|Resistor|R10, R12, R28, R36, R37, R40|R0603|R_1, R_1, R_1, R_1, R_1, R|6
+10K|Resistor|R11, R49|0603C|Res1|2
+4.7k|Resistor|R13, R31, R34|0603C|Res1|3
+0R|Resistor|R15, R16, R20, R27|R0603|R_1|4
+4.7k|Resistor|R17, R25|R0603|R_1|2
+1K|Resistor|R21|0603R|Res1_4|1
+40K|Resistor|R23|0603R|res1|1
+0R|Resistor|R24|0603C|Res1|1
+10K|Resistor|R31|0603R|res1|1
+4.7K|Resistor|R35|0603R|Res1_4|1
+33R||R41|0603R|RES1|1
+2.7K||R42|0603R|RES1|1
+40.2K/1%|Resistor|R43|R0603|R|1
+7.68K/1%|Resistor|R44|R0603|R|1
+20K|Resistor|R45|0603C|Res1|1
+SPK+|²âÊÔµã|SP+?|TP-1.5|TEST-POINT|1
+ICM-20608-G|Capacitor|U1|IC268G|DS-000081|1
+TP5100|Capacitor|U2|QFN16(4*4)|TP5100|1
+STM32F446RC||U3|LQFP64_10X10P|STM32F446RC|1
+E103-W01|Diode|U4|E103-W01|E103-W01|1
+BL8032|Diode Bridge|U9|SOT23-6|BL8032|1
+1117-3.3V|LDO|U10|SOT223|1117|1
+XC6206-1.8||U11|SOT23C|XC6206|1
+8M|Crystal Oscillator|Y1|XTAL1|XTAL|1
